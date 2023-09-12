@@ -1391,8 +1391,8 @@ section {
 }
 
 .horizontal-pricing .buy-btn:hover {
-  background: #406aff;
-  border-color: #406aff;
+  background: #c14f4f;
+  border-color: #c14f4f;
 }
 
 .horizontal-pricing .featured {
@@ -1533,7 +1533,7 @@ section {
 }
 
 .get-a-quote .php-email-form button[type=submit]:hover {
-  background: rgba(13, 66, 255, 0.8);
+  background: rgba(223, 83, 87, 0.8);
 }
 
 @-webkit-keyframes animate-loading {
