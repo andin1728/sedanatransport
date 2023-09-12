@@ -19,8 +19,8 @@
 /* Colors */
 :root {
   --color-default: #0a0d13;
-  --color-primary: #0d42ff;
-  --color-secondary: #0e1d34;
+  --color-primary: #e52222;
+  --color-secondary: #340e0e;
 }
 
 /* Smooth scroll behavior */
@@ -75,7 +75,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #001973;
+  color: #e52222;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
@@ -308,9 +308,9 @@ section {
 }
 
 .header.sticked {
-  background: rgba(14, 29, 52, 0.9);
+  background: rgb(106 23 23 / 90%);
   padding: 15px 0;
-  box-shadow: 0px 2px 20px rgba(14, 29, 52, 0.1);
+  box-shadow: 0px 2px 20px rgb(52 14 14 / 10%);
 }
 
 .header .logo img {
@@ -485,7 +485,7 @@ section {
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background: rgba(14, 29, 52, 0.9);
+    background: rgb(147 20 20 / 90%);
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
@@ -655,7 +655,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   font-family: var(--font-secondary);
-  color: #001f8d;
+  color: #e52222;
 }
 
 .about .content ul {
@@ -680,7 +680,7 @@ section {
 .about .content ul h5 {
   font-size: 18px;
   font-weight: 700;
-  color: #19335c;
+  color: #e52222;
 }
 
 .about .content ul p {
