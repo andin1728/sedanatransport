@@ -531,7 +531,7 @@ section {
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #fff;
-    background: rgba(13, 66, 255, 0.8);
+    background: rgba(255, 74, 74, 0.8);
   }
 
   .navbar .dropdown ul,
@@ -541,7 +541,7 @@ section {
     padding: 10px 0;
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
-    border: 1px solid #19335c;
+    border: 1px solid #5c1919;
   }
 
   .navbar .dropdown>.dropdown-active,
