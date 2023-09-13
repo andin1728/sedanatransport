@@ -215,7 +215,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: rgba(13, 66, 255, 0.8);
+  background: rgba(255, 55, 55, 0.8);
   color: #fff;
 }
 
@@ -386,7 +386,7 @@ section {
   .navbar .get-a-quote:hover,
   .navbar .get-a-quote:focus:hover {
     color: #fff;
-    background: #2756ff;
+    background: #ff3d3d;
   }
 
   .navbar .dropdown ul {
@@ -583,7 +583,7 @@ section {
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(14, 29, 52, 0.8);
+    background: rgba(52, 14, 14, 0.8);
     z-index: 9996;
   }
 }
