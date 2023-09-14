@@ -616,16 +616,28 @@
   <script src="assets/js/main.js"></script>
 
   <script>
-        $(document).ready(function(){
-      $('.slider').slick({
-          infinite: true,
-          slidesToShow: 4, // Ganti dengan jumlah logo yang ingin ditampilkan dalam satu slide
-          slidesToScroll: 1,
-          autoplay: true,
-          autoplaySpeed: 2000, // Atur kecepatan otomatisasi (dalam milidetik)
-          arrows: false, // Nonaktifkan panah navigasi jika tidak diperlukan
-      });
+  $(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 3
+            }
+        }]
     });
+});
   </script>
 
 </body>
