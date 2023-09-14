@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Ini adalah Source Code dari Sedana Transport
 
-Template Name: Logis
-Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Project ini di kembangkan oleh Manda Production
+
+Follow us on Instagram
+Sedana Transport : https://instagram.com/sedanatransport
